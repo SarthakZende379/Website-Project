@@ -1,0 +1,31 @@
+body
+{
+	
+	
+	background-color: #eca1a6;
+	
+    text-align: center;
+
+}
+h1
+{
+	font-style: normal;
+	font-size: 40px
+	
+}
+p
+{
+	background-color: #80ced6;
+	border-style: double;
+    font-style: oblique;
+    font-size: 20px
+}
+h2
+{
+	font-family: cursive;
+	font-size: 20px
+}
+h3
+{
+	border-style: dotted;
+}
